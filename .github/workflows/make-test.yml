@@ -12,3 +12,4 @@ jobs:
         run: make test
       - name: make lint
         run: make lint
+      - uses: hexlet-components/hello-from-hexlet-action@release
